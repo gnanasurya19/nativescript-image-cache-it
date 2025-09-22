@@ -1,7 +1,7 @@
 .vscode
 .idea
 .DS_Store
-*.js
+# *.js
 *.js.map
 *.log
 src/*.d.ts
